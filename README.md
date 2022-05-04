@@ -17,4 +17,4 @@ The remaining two data files are described below:
 
 **genes.tsv** contains each gene on every chromosome with start and end loci
 
-**ENCFF292KIL.tsv**  contains TPM data for genes
+**ENCFF292KIL.tsv**  contains TPM data for genes in the human genome
